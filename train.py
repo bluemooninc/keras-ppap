@@ -5,7 +5,7 @@ It uses data that can be downloaded at:
 In our setup, we:
 - created a data/ folder
 - created train/ and validation/ subfolders inside data/
-- created apple/ pineapple and and pen subfolders inside train/ and validation/
+- created apple/ pineapple and pen subfolders inside train/ and validation/
 - put the apple,pineapple,pen pictures index 1-24 in data/train/ each folder
 - put the dpple,pineapple,pen pictures index 25-30 in data/validation/ each folder
 So that we have 24 training examples for each class, and 6 validation examples for each class.
